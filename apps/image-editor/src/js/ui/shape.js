@@ -9,7 +9,7 @@ import { defaultShapeStrokeValues, eventNames, selectorNames } from '@/consts';
 const SHAPE_DEFAULT_OPTION = {
   stroke: '#ffbb3b',
   fill: '',
-  strokeWidth: 3,
+  strokeWidth: 12,
 };
 
 /**
