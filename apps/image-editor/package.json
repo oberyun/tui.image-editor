@@ -1,5 +1,5 @@
 {
-  "name": "tui-image-editor",
+  "name": "@obr-fe/tui-image-editor",
   "version": "3.15.3",
   "description": "TOAST UI ImageEditor",
   "keywords": [
@@ -35,6 +35,10 @@
   "homepage": "https://github.com/nhn/tui.image-editor",
   "bugs": "https://github.com/nhn/tui.image-editor/issues",
   "author": "NHN Cloud. FE Development Lab <dl_javascript@nhn.com>",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nhn/tui.image-editor.git"
