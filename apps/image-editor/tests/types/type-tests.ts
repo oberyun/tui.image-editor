@@ -306,7 +306,7 @@ imageEditor.toDataURL();
 imageEditor.undo();
 
 imageEditor.on('addText', (pos) => {
-  imageEditor.addText('Double Click', {
+  imageEditor.addText('双击修改内容', {
     position: pos.originPosition,
   });
 

@@ -335,14 +335,14 @@ export const defaultShapeStrokeValues = {
   realTimeEvent: true,
   min: 2,
   max: 300,
-  value: 3,
+  value: 12,
 };
 
 export const defaultTextRangeValues = {
   realTimeEvent: true,
-  min: 10,
-  max: 100,
-  value: 50,
+  min: 50,
+  max: 200,
+  value: 100,
 };
 
 export const defaultFilterRangeValues = {
